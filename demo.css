@@ -1,0 +1,9 @@
+input {
+    width: 180px !important;
+    display: inline-block !important;
+}
+
+.action-btn__container {
+    display: none;
+    margin: 6px 18px;
+}
